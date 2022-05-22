@@ -3,7 +3,6 @@
 @section('body')
     <div class="content">
         <div class="container-fluid" >
-
             <div class="row"  >
                 <div class="col-12">
                     <div class="page-title-box">
@@ -17,7 +16,6 @@
                     </div>
                 </div>
             </div> <!-- end page title -->
-
 
                                  <!----------Create modal----------->
                                 <form action="{{route('departments.store')}}" method="post">
