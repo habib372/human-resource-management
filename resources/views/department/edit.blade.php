@@ -1,6 +1,5 @@
 @extends("include.home")
 
-
 @section("body")
                     <div class="content">
                         <div class="container-fluid">
