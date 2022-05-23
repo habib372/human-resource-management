@@ -39,7 +39,6 @@ use App\Http\Controllers\UserController;
 // });
 
 
-
 //----normal routing use controller------> 
 Route::get('/', [LoginController::class, 'index']);
 Route::get('home', [HomeController::class,'index']);       // 'home'=url , 'index'=controller function
@@ -56,6 +55,5 @@ Route::resource('employees', EmployeeController::class);
 Route::resource('attendances', AttendanceController::class);
 Route::resource('leavetypes', LeaveTypeController::class);
 Route::resource('leaves', LeaveController::class);
-
 
 Route::resource('users', UserController::class);
