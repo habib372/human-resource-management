@@ -48,7 +48,6 @@ Route::get('home', [HomeController::class,'index']);       // 'home'=url , 'inde
 
 Route::get('monthly', [MonthlyAttendance::class,'index']);
 
-
 //----Resource Routing------>
 Route::resource('departments', DepartmentController::class);
 Route::resource('divisions', DivisionController::class);
