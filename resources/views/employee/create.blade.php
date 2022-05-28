@@ -260,7 +260,6 @@
                                                         </ul>
                                                     </div>
 
-
                                                 </div> <!-- tab-content -->
                                             </div> <!-- end #basicwizard-->
                                         </form>
