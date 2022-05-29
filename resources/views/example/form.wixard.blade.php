@@ -7,7 +7,6 @@
 
                                         <form>
                                             <div id="basicwizard">
-
                                                 <ul class="nav nav-pills bg-secondary nav-justified form-wizard-header mb-4">
                                                     <li class="nav-item">
                                                         <a href="#basictab1" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2"> 
