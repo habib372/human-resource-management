@@ -37,7 +37,6 @@ use App\Http\Controllers\UserController;
 //     return view('dd');
 // });
 
-
 //----normal routing use controller------> 
 Route::get('/', [LoginController::class, 'index']);
 Route::get('home', [HomeController::class,'index']);       // 'home'=url , 'index'=controller function
