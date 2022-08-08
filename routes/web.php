@@ -17,7 +17,6 @@ use App\Http\Controllers\LeaveController;
 
 use App\Http\Controllers\UserController;
 
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
