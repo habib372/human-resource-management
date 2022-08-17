@@ -38,8 +38,7 @@
                                                     <input type="text" class="form-control" name="txtLastName" id="inputAddress" placeholder="Last Name">
                                                 </div>
                                             </div>
-                
-                
+                      
                                             <div class="form-row">
                                                 <div class="form-group col-md-6">
                                                     <label for="inputCity" class="col-form-label">Country</label>
