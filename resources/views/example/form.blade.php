@@ -65,9 +65,7 @@
                                                     <label class="custom-control-label" for="customCheck11">Check this custom checkbox</label>
                                                 </div>
                                             </div>
-
                                             <button type="submit" class="btn btn-primary waves-effect waves-light">Sign in</button>
-
                                         </form>
 
                                     </div> <!-- end card-body -->
