@@ -44,6 +44,7 @@
                                                     <label for="inputCity" class="col-form-label">Country</label>
                                                     <input type="text" class="form-control" id="inputCity">
                                                 </div>
+                                                
                                                 <div class="form-group col-md-4">
                                                     <label for="inputState" class="col-form-label">State</label>
                                                     <select id="inputState" class="form-control">
@@ -53,6 +54,7 @@
                                                         <option>Option 3</option>
                                                     </select>
                                                 </div>
+                                                
                                                 <div class="form-group col-md-2">
                                                     <label for="inputZip" class="col-form-label">Zip</label>
                                                     <input type="text" class="form-control" id="inputZip">
