@@ -32,7 +32,6 @@ use App\Http\Controllers\UserController;
 // Route::get('/', function () {
 //     return view('include.login');
 // });
-    
 // Route::get('/home', function () {
 //     return view('dd');
 // });
