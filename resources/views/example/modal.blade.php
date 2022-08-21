@@ -1,5 +1,4 @@
-
-                                 <!----------modal----------->
+                              <!----------modal----------->
 
                                  <form action="#" method="post">
                                     <div id="add_department" class="modal fade" tabindex="-1" role="dialog"   aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
