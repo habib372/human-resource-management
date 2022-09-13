@@ -20,7 +20,6 @@
                             </div>
                         </div> <!-- end page title -->
                         
-
                         <div class="row">
                             <div class="col-md-11  m-auto">
                                 <div class="card">
