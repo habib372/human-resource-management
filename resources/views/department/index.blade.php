@@ -48,8 +48,7 @@
                                     </div><!-- /.modal -->
                                 </form>
 
-                               
-
+                              
             <div class="row pt-1">
                 <div class="col-11  m-auto">
                     <div class="card">
