@@ -18,7 +18,6 @@
                         </div>
                     </div> <!-- end page title -->
                   
-
                         <div class="row my-2">
                             <div class="col-12 ">
                                 <div class="card">
