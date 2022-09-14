@@ -92,8 +92,7 @@
                                                     </td>
                                                 </tr>
                                             </tfoot>
-                                            
-                                       
+                                              
                                     </div> <!-- end .table-responsive-->
                                 </div> <!-- end card-box -->
                             </div> <!-- end col -->
@@ -102,4 +101,5 @@
                         <!-- end row -->
                 </div>
             </div>
+            
 @endsection
