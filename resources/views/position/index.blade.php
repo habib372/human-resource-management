@@ -60,7 +60,7 @@
                             <div class="col-11  m-auto">
                                 <div class="card">
                                 <div class="card-header">
-                                    <h4 class="card-title  float-left">Attendance List</h4> 
+                                    <h4 class="card-title  float-left">Position List</h4> 
                                  
                                     <div class="float-right">
                                         <div class="row">
